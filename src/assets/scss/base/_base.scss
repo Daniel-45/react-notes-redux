@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("../../fonts/Roboto.ttf");
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+html,
+body {
+    height: 100vh;
+    width: 100vw;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+main {
+    width: 100%;
+}
+
+* {
+    font-size: 1.6rem;
+}
+
+h1 {
+    font-size: 3.2rem;
+}
+
+h2 {
+    font-size: 2.8rem;
+}
+
+h3 {
+    font-size: 2.6rem;
+}
+
+h4 {
+    font-size: 2.2rem;
+}
+
+h5 {
+    font-size: 1.8rem;
+}
+
+.mt-1 {
+    margin-top: .5rem;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.mb-1 {
+    margin-bottom: .5rem;
+}
+
+.mb-2 {
+    margin-bottom: 2rem;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.swal2-popup {
+    font-size: 1.6rem !important;
+}
